@@ -1,0 +1,1802 @@
+[
+  {
+    "lesson": [
+      {
+        "id": "35f3a78f-93aa-49d7-a972-503276092901",
+        "name": "Introduction to Programming",
+        "content": "Learn the basics of programming languages",
+        "created_at": "2023-08-11T19:45:47.663Z",
+        "updated_at": "2023-08-12T02:42:07.906Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "c7db1ef7-4d2e-4a4c-b891-4d0b62457c86",
+        "name": "Web Development Basics",
+        "content": "Build interactive websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-12T10:17:05.611Z",
+        "updated_at": "2023-08-12T12:21:34.896Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "dafacbe5-3438-4fbe-af04-65a0d974368b",
+        "name": "Data Science Fundamentals",
+        "content": "Explore data analysis techniques and tools",
+        "created_at": "2023-08-12T13:50:03.871Z",
+        "updated_at": "2023-08-12T12:22:49.984Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "9df36872-9c11-49e3-bb0d-4605f6748b0c",
+        "name": "Mobile App Development",
+        "content": "Create mobile apps for iOS and Android platforms",
+        "created_at": "2023-08-12T10:55:14.354Z",
+        "updated_at": "2023-08-11T21:38:33.609Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "38e6ef2d-497b-4f9a-a7be-7234dd7d74a2",
+        "name": "Artificial Intelligence",
+        "content": "Discover the world of AI and machine learning",
+        "created_at": "2023-08-12T10:42:17.058Z",
+        "updated_at": "2023-08-11T16:07:43.543Z",
+        "website_id": "main_entity_pk"
+      }
+    ],
+    "exercise": [
+      {
+        "id": "42a08e53-b05c-437b-8a4f-fb95dada3a8d",
+        "name": "Coding Challenge 1",
+        "content": "Solve a coding problem using your programming skills",
+        "created_at": "2023-08-11T23:15:52.521Z",
+        "updated_at": "2023-08-11T20:04:19.539Z",
+        "lesson_id": "c7db1ef7-4d2e-4a4c-b891-4d0b62457c86"
+      },
+      {
+        "id": "2c853936-4eba-4885-b5a0-337310bad8ec",
+        "name": "Problem Solving Exercise",
+        "content": "Improve your problem-solving abilities with this exercise",
+        "created_at": "2023-08-11T20:10:38.154Z",
+        "updated_at": "2023-08-12T12:13:07.600Z",
+        "lesson_id": "38e6ef2d-497b-4f9a-a7be-7234dd7d74a2"
+      },
+      {
+        "id": "012354a8-1833-460e-9fe2-61bf994f122b",
+        "name": "Debugging Practice",
+        "content": "Find and fix bugs in a given code snippet",
+        "created_at": "2023-08-11T15:51:53.026Z",
+        "updated_at": "2023-08-11T16:27:24.192Z",
+        "lesson_id": "dafacbe5-3438-4fbe-af04-65a0d974368b"
+      },
+      {
+        "id": "4cb00497-96b5-4901-8d3d-31a7c0bc3a5b",
+        "name": "Algorithm Implementation",
+        "content": "Implement a specific algorithm in your preferred language",
+        "created_at": "2023-08-12T05:02:45.015Z",
+        "updated_at": "2023-08-12T07:49:30.453Z",
+        "lesson_id": "35f3a78f-93aa-49d7-a972-503276092901"
+      },
+      {
+        "id": "bfed3b72-5ac9-473c-a0e9-69a6bb3db2d5",
+        "name": "Code Refactoring Task",
+        "content": "Optimize and improve existing code",
+        "created_at": "2023-08-11T22:24:56.198Z",
+        "updated_at": "2023-08-12T05:36:29.221Z",
+        "lesson_id": "c7db1ef7-4d2e-4a4c-b891-4d0b62457c86"
+      }
+    ],
+    "progress": [
+      {
+        "id": "5d93e736-709b-402a-9a30-313865e7b6c4",
+        "progress_data": "25%",
+        "created_at": "2023-08-12T13:48:44.826Z",
+        "updated_at": "2023-08-12T10:19:43.497Z",
+        "exercise_id": "42a08e53-b05c-437b-8a4f-fb95dada3a8d",
+        "lesson_id": "35f3a78f-93aa-49d7-a972-503276092901",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1ef76627-d10a-41ca-b00f-c2566c2eae66",
+        "progress_data": "50%",
+        "created_at": "2023-08-12T09:01:28.936Z",
+        "updated_at": "2023-08-12T02:55:52.794Z",
+        "exercise_id": "012354a8-1833-460e-9fe2-61bf994f122b",
+        "lesson_id": "38e6ef2d-497b-4f9a-a7be-7234dd7d74a2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cae94a81-d4b8-4c52-9bdd-654538f66b76",
+        "progress_data": "75%",
+        "created_at": "2023-08-11T18:53:26.308Z",
+        "updated_at": "2023-08-12T03:17:09.755Z",
+        "exercise_id": "2c853936-4eba-4885-b5a0-337310bad8ec",
+        "lesson_id": "35f3a78f-93aa-49d7-a972-503276092901",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f3b84792-774a-48b6-a507-311462a57c85",
+        "progress_data": "90%",
+        "created_at": "2023-08-12T01:38:26.175Z",
+        "updated_at": "2023-08-12T03:07:14.628Z",
+        "exercise_id": "4cb00497-96b5-4901-8d3d-31a7c0bc3a5b",
+        "lesson_id": "35f3a78f-93aa-49d7-a972-503276092901",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ac2d6f4-f88c-4542-9986-c176701ff7fe",
+        "progress_data": "100%",
+        "created_at": "2023-08-11T21:40:41.789Z",
+        "updated_at": "2023-08-11T20:01:06.681Z",
+        "exercise_id": "4cb00497-96b5-4901-8d3d-31a7c0bc3a5b",
+        "lesson_id": "35f3a78f-93aa-49d7-a972-503276092901",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6832c94c-a5a9-427b-b3d9-6edfb4101c5b",
+        "email": "Sharon73@gmail.com",
+        "firstName": "Laura",
+        "lastName": "Brakus",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/8.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "af2f19f4-0aed-42f5-b012-1771aba8bae3",
+        "email": "Zelma.Conn20@gmail.com",
+        "firstName": "Aniyah",
+        "lastName": "Wilderman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82967014",
+        "tenantId": null
+      },
+      {
+        "reference": "46f24f51-8cfd-421d-a91d-62c0c340a3e2",
+        "email": "June29@yahoo.com",
+        "firstName": "Charlotte",
+        "lastName": "Hoppe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13878113",
+        "tenantId": null
+      },
+      {
+        "reference": "fdcfdb8c-fead-4e4e-8dfb-b685f4b47718",
+        "email": "Brad98@yahoo.com",
+        "firstName": "Shyann",
+        "lastName": "Ryan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68877817",
+        "tenantId": null
+      },
+      {
+        "reference": "eb8808e7-6565-4a59-9310-a6546836d20b",
+        "email": "Kayli.Reinger@hotmail.com",
+        "firstName": "Hugh",
+        "lastName": "Zemlak",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77139503",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "lesson": [
+      {
+        "id": "88fe7837-e8a9-427e-976e-9c859b0aeb89",
+        "name": "Introduction to Programming",
+        "content": "Learn the basics of programming languages",
+        "created_at": "2023-08-12T11:34:43.189Z",
+        "updated_at": "2023-08-12T04:07:18.100Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "6d144b44-9dfa-4a58-9095-1e531af673c6",
+        "name": "Web Development Basics",
+        "content": "Build interactive websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-11T23:55:23.130Z",
+        "updated_at": "2023-08-11T20:41:53.559Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "0f876b5c-f990-4b4a-ba48-4b7177e27deb",
+        "name": "Data Science Fundamentals",
+        "content": "Explore data analysis techniques and tools",
+        "created_at": "2023-08-11T20:51:40.991Z",
+        "updated_at": "2023-08-12T05:43:24.807Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "afb5e187-9850-4aca-b051-ce2ca4763305",
+        "name": "Mobile App Development",
+        "content": "Create mobile apps for iOS and Android platforms",
+        "created_at": "2023-08-11T21:57:10.989Z",
+        "updated_at": "2023-08-12T11:39:03.405Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "15a02787-5ff9-4b31-aec8-f8125302f4d7",
+        "name": "Artificial Intelligence",
+        "content": "Discover the world of AI and machine learning",
+        "created_at": "2023-08-11T18:51:39.451Z",
+        "updated_at": "2023-08-11T19:14:27.651Z",
+        "website_id": "main_entity_pk"
+      }
+    ],
+    "exercise": [
+      {
+        "id": "e362d188-650b-43bd-8de9-88a1068215f7",
+        "name": "Coding Challenge 1",
+        "content": "Solve a programming problem using your preferred language",
+        "created_at": "2023-08-12T12:33:52.594Z",
+        "updated_at": "2023-08-12T02:23:14.538Z",
+        "lesson_id": "afb5e187-9850-4aca-b051-ce2ca4763305"
+      },
+      {
+        "id": "3669bfef-c064-440f-adfc-95af634f61c7",
+        "name": "Problem Solving Exercise",
+        "content": "Improve your problem-solving skills with this exercise",
+        "created_at": "2023-08-12T01:42:26.673Z",
+        "updated_at": "2023-08-11T15:53:25.525Z",
+        "lesson_id": "0f876b5c-f990-4b4a-ba48-4b7177e27deb"
+      },
+      {
+        "id": "14ba08d6-9eac-4cf4-89e4-bcfe5577e18f",
+        "name": "Debugging Practice",
+        "content": "Find and fix bugs in a given code snippet",
+        "created_at": "2023-08-12T06:28:08.783Z",
+        "updated_at": "2023-08-12T00:58:16.310Z",
+        "lesson_id": "afb5e187-9850-4aca-b051-ce2ca4763305"
+      },
+      {
+        "id": "27d012ce-5397-4db8-a8b4-279e8cfb449d",
+        "name": "Algorithmic Puzzle",
+        "content": "Solve a complex algorithmic puzzle",
+        "created_at": "2023-08-12T13:18:21.796Z",
+        "updated_at": "2023-08-12T14:37:08.981Z",
+        "lesson_id": "88fe7837-e8a9-427e-976e-9c859b0aeb89"
+      },
+      {
+        "id": "175a5def-5b74-4b26-ba9b-00834b8a71a5",
+        "name": "Code Refactoring Task",
+        "content": "Optimize and improve existing code",
+        "created_at": "2023-08-12T10:11:23.482Z",
+        "updated_at": "2023-08-11T16:05:31.173Z",
+        "lesson_id": "6d144b44-9dfa-4a58-9095-1e531af673c6"
+      }
+    ],
+    "progress": [
+      {
+        "id": "799212a1-d045-41e4-b281-5ebb7e37a67f",
+        "progress_data": "25%",
+        "created_at": "2023-08-12T15:21:02.749Z",
+        "updated_at": "2023-08-12T15:09:42.241Z",
+        "exercise_id": "3669bfef-c064-440f-adfc-95af634f61c7",
+        "lesson_id": "afb5e187-9850-4aca-b051-ce2ca4763305",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "17a47b79-353a-45d4-aeb0-8a4f1df6a365",
+        "progress_data": "50%",
+        "created_at": "2023-08-12T04:12:56.561Z",
+        "updated_at": "2023-08-12T09:24:20.219Z",
+        "exercise_id": "e362d188-650b-43bd-8de9-88a1068215f7",
+        "lesson_id": "afb5e187-9850-4aca-b051-ce2ca4763305",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "09d1196f-8279-41a1-8f62-9a7a3a9f9bc9",
+        "progress_data": "75%",
+        "created_at": "2023-08-11T22:39:33.349Z",
+        "updated_at": "2023-08-11T23:41:54.725Z",
+        "exercise_id": "27d012ce-5397-4db8-a8b4-279e8cfb449d",
+        "lesson_id": "0f876b5c-f990-4b4a-ba48-4b7177e27deb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "56383fcd-7ee3-46d6-8274-beaf028cedba",
+        "progress_data": "90%",
+        "created_at": "2023-08-11T20:19:39.263Z",
+        "updated_at": "2023-08-11T23:39:11.748Z",
+        "exercise_id": "27d012ce-5397-4db8-a8b4-279e8cfb449d",
+        "lesson_id": "88fe7837-e8a9-427e-976e-9c859b0aeb89",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f5a292f7-a7a8-4b99-a52d-a20b6f9a3dab",
+        "progress_data": "100%",
+        "created_at": "2023-08-12T05:56:00.893Z",
+        "updated_at": "2023-08-12T04:24:29.435Z",
+        "exercise_id": "27d012ce-5397-4db8-a8b4-279e8cfb449d",
+        "lesson_id": "0f876b5c-f990-4b4a-ba48-4b7177e27deb",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "524403c5-dde6-4f92-8e96-54e7317980cb",
+        "email": "Abraham.Zulauf@hotmail.com",
+        "firstName": "Scarlett",
+        "lastName": "Ernser",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/860.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "50c9c498-b943-449c-9d3f-2c1cca83d721",
+        "email": "Alivia_Oberbrunner22@yahoo.com",
+        "firstName": "Katheryn",
+        "lastName": "McLaughlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46889198",
+        "tenantId": null
+      },
+      {
+        "reference": "11bdd86b-94ba-4a05-bb89-14bd549ce80b",
+        "email": "Jennifer_Doyle32@gmail.com",
+        "firstName": "Delpha",
+        "lastName": "Ruecker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/779.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f2d6fd36-b747-4674-9475-3acc7bc2a0a6",
+        "email": "Korbin_Schmidt14@hotmail.com",
+        "firstName": "Winnifred",
+        "lastName": "Rogahn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18021874",
+        "tenantId": null
+      },
+      {
+        "reference": "57338a1e-ae6a-4f52-a396-9ebbfb213d2c",
+        "email": "Garnet74@gmail.com",
+        "firstName": "Joaquin",
+        "lastName": "Pouros",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43946245",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "lesson": [
+      {
+        "id": "124e2626-b6da-451a-ac5c-4da51cb76437",
+        "name": "Introduction to Programming",
+        "content": "Learn the basics of programming languages",
+        "created_at": "2023-08-12T12:40:29.878Z",
+        "updated_at": "2023-08-11T15:44:05.643Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "4e0ff07b-4c61-416d-9360-f0dec45656fd",
+        "name": "Web Development Basics",
+        "content": "Build interactive websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-12T06:42:11.373Z",
+        "updated_at": "2023-08-12T06:15:27.754Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "e34613d0-4b7e-4aec-bd9a-fd112b57f21e",
+        "name": "Data Science Fundamentals",
+        "content": "Explore data analysis techniques and tools",
+        "created_at": "2023-08-12T01:13:38.851Z",
+        "updated_at": "2023-08-12T03:10:27.977Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "debf45f6-5f45-4bd6-998d-1fce04e75914",
+        "name": "Mobile App Development",
+        "content": "Create mobile apps for iOS and Android platforms",
+        "created_at": "2023-08-12T02:16:30.553Z",
+        "updated_at": "2023-08-12T05:29:42.156Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "04adacb7-54e1-42c7-af5c-8532d284d584",
+        "name": "Artificial Intelligence",
+        "content": "Discover the world of AI and machine learning",
+        "created_at": "2023-08-12T07:25:40.738Z",
+        "updated_at": "2023-08-12T06:06:40.409Z",
+        "website_id": "main_entity_pk"
+      }
+    ],
+    "exercise": [
+      {
+        "id": "39ed2408-5b5c-4c3c-9fdc-bc496d15c5a9",
+        "name": "Coding Challenge 1",
+        "content": "Solve a coding problem using your programming skills",
+        "created_at": "2023-08-11T17:58:31.689Z",
+        "updated_at": "2023-08-12T13:10:24.131Z",
+        "lesson_id": "debf45f6-5f45-4bd6-998d-1fce04e75914"
+      },
+      {
+        "id": "19d3bf32-9854-4ab4-9a45-157bddd9d0f1",
+        "name": "Problem Solving Exercise",
+        "content": "Improve your problem-solving abilities with this exercise",
+        "created_at": "2023-08-11T23:27:59.546Z",
+        "updated_at": "2023-08-11T15:50:23.118Z",
+        "lesson_id": "04adacb7-54e1-42c7-af5c-8532d284d584"
+      },
+      {
+        "id": "c57dfa98-906f-4298-adf6-18db48390794",
+        "name": "Debugging Practice",
+        "content": "Find and fix bugs in a given code snippet",
+        "created_at": "2023-08-12T06:20:52.603Z",
+        "updated_at": "2023-08-12T15:13:54.431Z",
+        "lesson_id": "debf45f6-5f45-4bd6-998d-1fce04e75914"
+      },
+      {
+        "id": "7d6b8416-3007-4536-83a0-47e290c336fb",
+        "name": "Algorithmic Puzzle",
+        "content": "Solve a puzzle using algorithms and logical thinking",
+        "created_at": "2023-08-11T19:53:32.376Z",
+        "updated_at": "2023-08-11T16:09:35.274Z",
+        "lesson_id": "04adacb7-54e1-42c7-af5c-8532d284d584"
+      },
+      {
+        "id": "d5fb300f-356f-497b-a8eb-0bbfc00709bd",
+        "name": "Code Refactoring Task",
+        "content": "Optimize and improve existing code",
+        "created_at": "2023-08-11T23:05:05.104Z",
+        "updated_at": "2023-08-12T14:50:37.749Z",
+        "lesson_id": "e34613d0-4b7e-4aec-bd9a-fd112b57f21e"
+      }
+    ],
+    "progress": [
+      {
+        "id": "454290c4-a152-4cc9-a3d8-5cedf204b0ab",
+        "progress_data": "25%",
+        "created_at": "2023-08-12T03:30:45.446Z",
+        "updated_at": "2023-08-11T23:03:29.665Z",
+        "exercise_id": "7d6b8416-3007-4536-83a0-47e290c336fb",
+        "lesson_id": "debf45f6-5f45-4bd6-998d-1fce04e75914",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "09ff8d95-33cb-4bbc-a44b-488efe41e0d8",
+        "progress_data": "50%",
+        "created_at": "2023-08-12T00:17:39.036Z",
+        "updated_at": "2023-08-12T11:57:41.231Z",
+        "exercise_id": "19d3bf32-9854-4ab4-9a45-157bddd9d0f1",
+        "lesson_id": "e34613d0-4b7e-4aec-bd9a-fd112b57f21e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e484f59-fd2f-4758-8193-7b65a2157042",
+        "progress_data": "75%",
+        "created_at": "2023-08-12T13:03:38.357Z",
+        "updated_at": "2023-08-12T09:18:05.536Z",
+        "exercise_id": "39ed2408-5b5c-4c3c-9fdc-bc496d15c5a9",
+        "lesson_id": "04adacb7-54e1-42c7-af5c-8532d284d584",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "10756116-5641-45df-bc73-08616f49e433",
+        "progress_data": "90%",
+        "created_at": "2023-08-12T08:15:19.056Z",
+        "updated_at": "2023-08-12T00:08:38.772Z",
+        "exercise_id": "c57dfa98-906f-4298-adf6-18db48390794",
+        "lesson_id": "4e0ff07b-4c61-416d-9360-f0dec45656fd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7c3e751c-5a1b-4f49-97cf-c1aeef7b811d",
+        "progress_data": "100%",
+        "created_at": "2023-08-12T11:22:28.714Z",
+        "updated_at": "2023-08-12T10:38:43.680Z",
+        "exercise_id": "39ed2408-5b5c-4c3c-9fdc-bc496d15c5a9",
+        "lesson_id": "4e0ff07b-4c61-416d-9360-f0dec45656fd",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "01a081ed-7e49-49e1-9781-c33aa4fef142",
+        "email": "Ronaldo_Hoppe60@gmail.com",
+        "firstName": "Easter",
+        "lastName": "Bradtke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/99.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "854d2860-8b34-4187-84eb-9adb49b7fc8e",
+        "email": "Adrianna_Turner69@hotmail.com",
+        "firstName": "Jerel",
+        "lastName": "Lynch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/181.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f42e0812-94f5-4662-8da6-6358bc0fea14",
+        "email": "Fabian.Weissnat74@gmail.com",
+        "firstName": "Rae",
+        "lastName": "Pacocha",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "332235e6-982d-401d-82c2-ffb5e7b812b7",
+        "email": "Terrell47@gmail.com",
+        "firstName": "Gayle",
+        "lastName": "Bartell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/788.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9797d36b-64f8-463e-845d-2594276929bf",
+        "email": "Maye2@hotmail.com",
+        "firstName": "Camryn",
+        "lastName": "Green",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/896.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "lesson": [
+      {
+        "id": "694d0613-960f-48f7-accc-99f20ff03ab1",
+        "name": "Introduction to Programming",
+        "content": "Learn the basics of programming languages",
+        "created_at": "2023-08-12T03:31:55.001Z",
+        "updated_at": "2023-08-12T01:33:28.660Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "c9fdc458-fccb-4763-9809-50e656f5c5d4",
+        "name": "Web Development Basics",
+        "content": "Build interactive websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-12T14:37:31.073Z",
+        "updated_at": "2023-08-12T04:08:27.807Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "d62e1067-85bb-45ac-bda4-fc4706db4ca6",
+        "name": "Data Science Fundamentals",
+        "content": "Explore data analysis techniques and tools",
+        "created_at": "2023-08-11T20:36:09.915Z",
+        "updated_at": "2023-08-11T20:48:18.658Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "5abe8567-0ab6-4adc-8918-7914f4f26421",
+        "name": "Mobile App Development",
+        "content": "Create mobile apps for iOS and Android platforms",
+        "created_at": "2023-08-12T00:10:00.300Z",
+        "updated_at": "2023-08-12T06:26:01.384Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "8b3a6034-4656-4929-8510-6793c031ad86",
+        "name": "Artificial Intelligence",
+        "content": "Discover the world of AI and machine learning",
+        "created_at": "2023-08-11T19:27:59.376Z",
+        "updated_at": "2023-08-12T01:52:46.755Z",
+        "website_id": "main_entity_pk"
+      }
+    ],
+    "exercise": [
+      {
+        "id": "bee0f258-bf6d-4acc-836f-248e8eeaf831",
+        "name": "Coding Challenge 1",
+        "content": "Solve a programming problem using your preferred language",
+        "created_at": "2023-08-12T01:37:49.069Z",
+        "updated_at": "2023-08-12T10:02:12.285Z",
+        "lesson_id": "5abe8567-0ab6-4adc-8918-7914f4f26421"
+      },
+      {
+        "id": "2da5f3c0-6d89-47f2-86d7-8c6b02f91c2d",
+        "name": "Problem Solving Exercise",
+        "content": "Improve your problem-solving skills with this exercise",
+        "created_at": "2023-08-12T04:28:46.543Z",
+        "updated_at": "2023-08-11T21:42:06.133Z",
+        "lesson_id": "5abe8567-0ab6-4adc-8918-7914f4f26421"
+      },
+      {
+        "id": "bcf8ad14-3938-4944-a7a3-d27cf41295af",
+        "name": "Debugging Practice",
+        "content": "Find and fix bugs in a given code snippet",
+        "created_at": "2023-08-11T18:22:29.251Z",
+        "updated_at": "2023-08-11T23:28:35.032Z",
+        "lesson_id": "c9fdc458-fccb-4763-9809-50e656f5c5d4"
+      },
+      {
+        "id": "9d512e6c-37d9-43cf-8dca-6c1ff5bb9c98",
+        "name": "Algorithmic Puzzle",
+        "content": "Solve a complex algorithmic puzzle",
+        "created_at": "2023-08-11T21:16:28.621Z",
+        "updated_at": "2023-08-12T04:19:31.557Z",
+        "lesson_id": "694d0613-960f-48f7-accc-99f20ff03ab1"
+      },
+      {
+        "id": "72191e0c-5005-4fca-9101-7f9b896d5358",
+        "name": "Code Refactoring Task",
+        "content": "Optimize and improve existing code",
+        "created_at": "2023-08-11T21:15:12.814Z",
+        "updated_at": "2023-08-12T07:25:38.566Z",
+        "lesson_id": "5abe8567-0ab6-4adc-8918-7914f4f26421"
+      }
+    ],
+    "progress": [
+      {
+        "id": "e9a8a7cf-3c86-4e7a-bb46-ecff34acc95b",
+        "progress_data": "25%",
+        "created_at": "2023-08-11T20:25:00.964Z",
+        "updated_at": "2023-08-11T17:53:01.874Z",
+        "exercise_id": "bcf8ad14-3938-4944-a7a3-d27cf41295af",
+        "lesson_id": "8b3a6034-4656-4929-8510-6793c031ad86",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d42c6ea-1fcb-4bff-95b8-76161d1936af",
+        "progress_data": "50%",
+        "created_at": "2023-08-11T18:28:57.687Z",
+        "updated_at": "2023-08-11T23:51:55.397Z",
+        "exercise_id": "9d512e6c-37d9-43cf-8dca-6c1ff5bb9c98",
+        "lesson_id": "c9fdc458-fccb-4763-9809-50e656f5c5d4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e5264b87-74ef-4842-b961-eee15c92b990",
+        "progress_data": "75%",
+        "created_at": "2023-08-12T01:58:52.726Z",
+        "updated_at": "2023-08-12T15:14:38.354Z",
+        "exercise_id": "9d512e6c-37d9-43cf-8dca-6c1ff5bb9c98",
+        "lesson_id": "d62e1067-85bb-45ac-bda4-fc4706db4ca6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0974ac04-745e-4540-88c8-5765f6420331",
+        "progress_data": "90%",
+        "created_at": "2023-08-11T22:53:01.619Z",
+        "updated_at": "2023-08-11T16:08:34.416Z",
+        "exercise_id": "72191e0c-5005-4fca-9101-7f9b896d5358",
+        "lesson_id": "8b3a6034-4656-4929-8510-6793c031ad86",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0866d915-a4df-4123-b655-e783524860cc",
+        "progress_data": "100%",
+        "created_at": "2023-08-12T02:35:55.943Z",
+        "updated_at": "2023-08-12T00:38:56.242Z",
+        "exercise_id": "2da5f3c0-6d89-47f2-86d7-8c6b02f91c2d",
+        "lesson_id": "c9fdc458-fccb-4763-9809-50e656f5c5d4",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2884c330-bc2f-4fa8-940c-c220747821dd",
+        "email": "Miller_Goodwin5@gmail.com",
+        "firstName": "Toy",
+        "lastName": "Friesen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/166.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "12337321-2e71-40c2-af8f-7d5ca9832c3c",
+        "email": "Angeline_Herzog87@gmail.com",
+        "firstName": "Jordan",
+        "lastName": "Schamberger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/602.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f9316ad0-e5cc-446f-94e3-75ddbbf32a74",
+        "email": "Dennis78@hotmail.com",
+        "firstName": "Gaetano",
+        "lastName": "Stamm",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77587598",
+        "tenantId": null
+      },
+      {
+        "reference": "48285db8-f0a9-4de4-9706-1e38e9148d2b",
+        "email": "Jerel.Kertzmann@yahoo.com",
+        "firstName": "Marcella",
+        "lastName": "Dietrich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45832576",
+        "tenantId": null
+      },
+      {
+        "reference": "f9608998-1172-432b-8235-3b74edd7ad4b",
+        "email": "Conner_Braun@hotmail.com",
+        "firstName": "Shaylee",
+        "lastName": "Littel-Cummings",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/873.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "lesson": [
+      {
+        "id": "b54ccbc9-38b8-4ff6-8e1d-990188dcafa2",
+        "name": "Introduction to Programming",
+        "content": "Learn the basics of programming languages",
+        "created_at": "2023-08-12T14:10:07.563Z",
+        "updated_at": "2023-08-11T22:18:45.996Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "3fd1fcdc-2fac-41af-a1ae-e33d0c0ca67a",
+        "name": "Web Development Basics",
+        "content": "Build interactive websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-12T10:54:52.846Z",
+        "updated_at": "2023-08-11T22:09:40.660Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "b1867c0a-0e9d-4865-96dc-abe3079c0d2f",
+        "name": "Data Science Fundamentals",
+        "content": "Explore data analysis techniques and tools",
+        "created_at": "2023-08-12T04:51:06.933Z",
+        "updated_at": "2023-08-12T02:11:13.058Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "7bc54b09-133a-4f89-ae85-263c439fa430",
+        "name": "Mobile App Development",
+        "content": "Create mobile apps for iOS and Android platforms",
+        "created_at": "2023-08-12T05:10:42.564Z",
+        "updated_at": "2023-08-12T15:26:04.802Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "63ed3496-36db-4245-a386-7f8dc2b7d1f2",
+        "name": "Artificial Intelligence",
+        "content": "Discover the world of AI and machine learning",
+        "created_at": "2023-08-12T10:29:03.940Z",
+        "updated_at": "2023-08-12T09:45:00.125Z",
+        "website_id": "main_entity_pk"
+      }
+    ],
+    "exercise": [
+      {
+        "id": "9ce4d937-9b9d-4720-9e13-6222e7d2e879",
+        "name": "Coding Challenge 1",
+        "content": "Solve a coding problem using your programming skills",
+        "created_at": "2023-08-11T21:39:52.376Z",
+        "updated_at": "2023-08-12T12:52:53.409Z",
+        "lesson_id": "b1867c0a-0e9d-4865-96dc-abe3079c0d2f"
+      },
+      {
+        "id": "3a01da6c-d14c-48a7-8e4b-cab43119e5b6",
+        "name": "Problem Solving Exercise",
+        "content": "Improve your problem-solving abilities with this exercise",
+        "created_at": "2023-08-12T09:19:39.428Z",
+        "updated_at": "2023-08-12T12:24:01.559Z",
+        "lesson_id": "63ed3496-36db-4245-a386-7f8dc2b7d1f2"
+      },
+      {
+        "id": "f9968ec6-986c-4853-9849-3afbcdf30afb",
+        "name": "Debugging Practice",
+        "content": "Find and fix bugs in a given code snippet",
+        "created_at": "2023-08-11T23:10:16.960Z",
+        "updated_at": "2023-08-11T22:58:38.405Z",
+        "lesson_id": "b54ccbc9-38b8-4ff6-8e1d-990188dcafa2"
+      },
+      {
+        "id": "94e655a8-649f-47bc-8437-1cc39a4a8a33",
+        "name": "Algorithm Implementation",
+        "content": "Implement a specific algorithm in your preferred language",
+        "created_at": "2023-08-12T15:11:30.669Z",
+        "updated_at": "2023-08-12T01:39:54.670Z",
+        "lesson_id": "b54ccbc9-38b8-4ff6-8e1d-990188dcafa2"
+      },
+      {
+        "id": "0621df19-6828-43b9-b0b9-064f1c2fe6d0",
+        "name": "Code Refactoring Task",
+        "content": "Optimize and improve existing code by refactoring",
+        "created_at": "2023-08-11T21:03:08.905Z",
+        "updated_at": "2023-08-11T23:08:56.212Z",
+        "lesson_id": "b54ccbc9-38b8-4ff6-8e1d-990188dcafa2"
+      }
+    ],
+    "progress": [
+      {
+        "id": "51ec23f7-f8c8-4406-a8ac-3fa352c8949c",
+        "progress_data": "25%",
+        "created_at": "2023-08-11T17:59:54.481Z",
+        "updated_at": "2023-08-12T08:29:27.552Z",
+        "exercise_id": "94e655a8-649f-47bc-8437-1cc39a4a8a33",
+        "lesson_id": "b1867c0a-0e9d-4865-96dc-abe3079c0d2f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a4903af8-9d29-499f-b9e7-94b326d0a1cd",
+        "progress_data": "50%",
+        "created_at": "2023-08-11T22:29:12.176Z",
+        "updated_at": "2023-08-12T13:41:04.575Z",
+        "exercise_id": "9ce4d937-9b9d-4720-9e13-6222e7d2e879",
+        "lesson_id": "3fd1fcdc-2fac-41af-a1ae-e33d0c0ca67a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1745308b-dd84-42e0-abb0-a6c222dc23ac",
+        "progress_data": "75%",
+        "created_at": "2023-08-12T01:40:32.297Z",
+        "updated_at": "2023-08-12T07:45:07.376Z",
+        "exercise_id": "94e655a8-649f-47bc-8437-1cc39a4a8a33",
+        "lesson_id": "3fd1fcdc-2fac-41af-a1ae-e33d0c0ca67a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "32f4de2d-8e6a-43f8-8ea8-e068429e4a2e",
+        "progress_data": "90%",
+        "created_at": "2023-08-11T16:34:17.451Z",
+        "updated_at": "2023-08-11T19:01:56.496Z",
+        "exercise_id": "0621df19-6828-43b9-b0b9-064f1c2fe6d0",
+        "lesson_id": "3fd1fcdc-2fac-41af-a1ae-e33d0c0ca67a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "99b7f357-5822-49b0-ae04-de469672e402",
+        "progress_data": "100%",
+        "created_at": "2023-08-11T19:13:32.946Z",
+        "updated_at": "2023-08-12T00:55:12.621Z",
+        "exercise_id": "f9968ec6-986c-4853-9849-3afbcdf30afb",
+        "lesson_id": "b54ccbc9-38b8-4ff6-8e1d-990188dcafa2",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "871ed809-6005-433b-932c-539ffbb97292",
+        "email": "Marina_Kris63@gmail.com",
+        "firstName": "Natalia",
+        "lastName": "Kunde",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/774.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "036ca5f4-c434-4215-bef7-d65c4db6fcc4",
+        "email": "Shaniya_West@hotmail.com",
+        "firstName": "Anissa",
+        "lastName": "Crona-Cormier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1025.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "da1ddfc6-9db2-447d-9076-854ec666af53",
+        "email": "Stacey61@yahoo.com",
+        "firstName": "Brionna",
+        "lastName": "McLaughlin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/730.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "388c68e6-0b86-4d6e-8478-9c972e07f468",
+        "email": "Aaron94@yahoo.com",
+        "firstName": "Clovis",
+        "lastName": "Kling",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/146.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "93ab3ce0-5acd-43c2-9451-9b0ff5922992",
+        "email": "Nyasia.Bashirian73@hotmail.com",
+        "firstName": "Annette",
+        "lastName": "Beer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/188.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "lesson": [
+      {
+        "id": "eeddc4cd-ddcf-474d-83ed-2d760a25e85c",
+        "name": "Introduction to Programming",
+        "content": "Learn the basics of programming languages",
+        "created_at": "2023-08-11T20:02:04.623Z",
+        "updated_at": "2023-08-12T09:32:34.780Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "6ce77cd6-0040-42ad-9b66-2e149eeb899c",
+        "name": "Web Development Basics",
+        "content": "Build interactive websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-11T19:16:28.159Z",
+        "updated_at": "2023-08-11T15:51:46.739Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "b9f5a47a-ead5-4e04-9423-082606c54bbd",
+        "name": "Data Science Fundamentals",
+        "content": "Explore data analysis techniques and tools",
+        "created_at": "2023-08-12T14:44:41.718Z",
+        "updated_at": "2023-08-11T17:24:13.749Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "6671900b-edf8-4c4c-b073-cce2309fc275",
+        "name": "Mobile App Development",
+        "content": "Create mobile apps for iOS and Android platforms",
+        "created_at": "2023-08-11T20:13:50.794Z",
+        "updated_at": "2023-08-12T03:09:51.548Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "4109b423-afe7-436b-acff-cc24a2bf724c",
+        "name": "Artificial Intelligence",
+        "content": "Discover the world of AI and machine learning",
+        "created_at": "2023-08-11T22:08:40.937Z",
+        "updated_at": "2023-08-12T05:33:16.575Z",
+        "website_id": "main_entity_pk"
+      }
+    ],
+    "exercise": [
+      {
+        "id": "72627459-026d-47f9-bf3b-304ffc9d2ffc",
+        "name": "Coding Challenge 1",
+        "content": "Solve a coding problem using your programming skills",
+        "created_at": "2023-08-12T03:50:40.652Z",
+        "updated_at": "2023-08-12T06:30:44.466Z",
+        "lesson_id": "6ce77cd6-0040-42ad-9b66-2e149eeb899c"
+      },
+      {
+        "id": "8e80b9f9-b210-4506-81a1-e43d9152d085",
+        "name": "Problem Solving Exercise",
+        "content": "Improve your problem-solving abilities with this exercise",
+        "created_at": "2023-08-12T01:32:38.582Z",
+        "updated_at": "2023-08-11T16:21:57.021Z",
+        "lesson_id": "b9f5a47a-ead5-4e04-9423-082606c54bbd"
+      },
+      {
+        "id": "542e88d7-2de1-4c84-98a8-9f7de37b5a89",
+        "name": "Debugging Practice",
+        "content": "Find and fix bugs in a given code snippet",
+        "created_at": "2023-08-12T08:16:58.037Z",
+        "updated_at": "2023-08-11T20:42:48.833Z",
+        "lesson_id": "6671900b-edf8-4c4c-b073-cce2309fc275"
+      },
+      {
+        "id": "4d1e80c6-fbb7-476f-ad9b-a6899961b1cb",
+        "name": "Algorithm Implementation",
+        "content": "Implement a specific algorithm in your preferred language",
+        "created_at": "2023-08-12T14:41:34.444Z",
+        "updated_at": "2023-08-12T09:51:26.900Z",
+        "lesson_id": "6ce77cd6-0040-42ad-9b66-2e149eeb899c"
+      },
+      {
+        "id": "e4a15d31-6a4c-4209-a4b5-96f0bf50ea1e",
+        "name": "Code Refactoring Task",
+        "content": "Optimize and improve existing code by refactoring",
+        "created_at": "2023-08-12T11:04:44.686Z",
+        "updated_at": "2023-08-12T15:08:53.493Z",
+        "lesson_id": "eeddc4cd-ddcf-474d-83ed-2d760a25e85c"
+      }
+    ],
+    "progress": [
+      {
+        "id": "dd7ed2bb-21e6-4d75-a818-fd2822db22f7",
+        "progress_data": "25%",
+        "created_at": "2023-08-12T12:22:23.859Z",
+        "updated_at": "2023-08-12T01:56:52.731Z",
+        "exercise_id": "8e80b9f9-b210-4506-81a1-e43d9152d085",
+        "lesson_id": "eeddc4cd-ddcf-474d-83ed-2d760a25e85c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ec9b382-d961-473c-a3d9-83f09e1f1b6f",
+        "progress_data": "50%",
+        "created_at": "2023-08-11T22:04:04.510Z",
+        "updated_at": "2023-08-12T12:48:49.938Z",
+        "exercise_id": "8e80b9f9-b210-4506-81a1-e43d9152d085",
+        "lesson_id": "6671900b-edf8-4c4c-b073-cce2309fc275",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b2bc3e49-eb02-47de-b8ab-71ed28c482ec",
+        "progress_data": "75%",
+        "created_at": "2023-08-12T09:43:31.030Z",
+        "updated_at": "2023-08-11T23:58:34.285Z",
+        "exercise_id": "542e88d7-2de1-4c84-98a8-9f7de37b5a89",
+        "lesson_id": "eeddc4cd-ddcf-474d-83ed-2d760a25e85c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b253f93b-790b-428d-a2dd-605fafca027d",
+        "progress_data": "90%",
+        "created_at": "2023-08-12T00:42:47.104Z",
+        "updated_at": "2023-08-12T13:52:24.609Z",
+        "exercise_id": "8e80b9f9-b210-4506-81a1-e43d9152d085",
+        "lesson_id": "6ce77cd6-0040-42ad-9b66-2e149eeb899c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aa97a597-4bde-467c-a20e-ab45492b7077",
+        "progress_data": "100%",
+        "created_at": "2023-08-11T19:58:49.932Z",
+        "updated_at": "2023-08-12T13:41:18.480Z",
+        "exercise_id": "e4a15d31-6a4c-4209-a4b5-96f0bf50ea1e",
+        "lesson_id": "6ce77cd6-0040-42ad-9b66-2e149eeb899c",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fccc4366-e9fa-4ff9-bf4d-b06501d0ab1b",
+        "email": "Breanne_Runte20@yahoo.com",
+        "firstName": "Jolie",
+        "lastName": "Lesch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10958440",
+        "tenantId": null
+      },
+      {
+        "reference": "e1f7f429-cce5-4685-8ad1-aa2b2cd85b6f",
+        "email": "Gage44@hotmail.com",
+        "firstName": "Joelle",
+        "lastName": "Gorczany",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/520.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7149de41-c670-4a1e-9b6a-230c3df5955d",
+        "email": "Gus.Weber52@gmail.com",
+        "firstName": "Jules",
+        "lastName": "O'Keefe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76353119",
+        "tenantId": null
+      },
+      {
+        "reference": "ee9a61a1-552b-4857-88d6-2720aee8a56f",
+        "email": "Maddison_Bahringer-Streich75@hotmail.com",
+        "firstName": "Pedro",
+        "lastName": "Ziemann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75807150",
+        "tenantId": null
+      },
+      {
+        "reference": "82d96aef-469f-4cf0-aff2-1c3b13dbd120",
+        "email": "Erich.Labadie47@hotmail.com",
+        "firstName": "Roslyn",
+        "lastName": "Kertzmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/22.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "lesson": [
+      {
+        "id": "edfb1482-fa31-4691-904c-5c1f3c989b05",
+        "name": "Introduction to Python",
+        "content": "Learn the basics of Python programming language",
+        "created_at": "2023-08-11T17:55:41.222Z",
+        "updated_at": "2023-08-12T11:45:18.398Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "3642223e-884e-469f-b913-15b8111e201d",
+        "name": "Web Development Basics",
+        "content": "Explore the fundamentals of web development",
+        "created_at": "2023-08-12T02:45:44.534Z",
+        "updated_at": "2023-08-11T19:34:03.111Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "bb373836-3f6c-4739-8e65-dbbc9ae32ca6",
+        "name": "Data Analysis Techniques",
+        "content": "Discover various techniques for data analysis",
+        "created_at": "2023-08-12T11:37:45.309Z",
+        "updated_at": "2023-08-12T07:08:30.101Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "81e7e6b2-2cdb-401c-b8f8-10ab4622af5e",
+        "name": "Artificial Intelligence Fundamentals",
+        "content": "Get started with artificial intelligence concepts",
+        "created_at": "2023-08-12T12:44:38.108Z",
+        "updated_at": "2023-08-12T07:32:55.544Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "ebc09d65-46d6-47ce-b0a3-e469bfb41502",
+        "name": "Mobile App Development",
+        "content": "Build your own mobile apps",
+        "created_at": "2023-08-12T01:58:45.747Z",
+        "updated_at": "2023-08-12T08:41:29.040Z",
+        "website_id": "main_entity_pk"
+      }
+    ],
+    "exercise": [
+      {
+        "id": "4c5e0cb3-8e4b-42e6-a6df-f6773772d226",
+        "name": "Coding Challenge 1",
+        "content": "Solve a coding challenge to test your skills",
+        "created_at": "2023-08-12T10:56:03.283Z",
+        "updated_at": "2023-08-11T22:49:09.412Z",
+        "lesson_id": "ebc09d65-46d6-47ce-b0a3-e469bfb41502"
+      },
+      {
+        "id": "85ee7a9d-06de-4e54-a67b-f7397b1ea1e7",
+        "name": "Problem Solving Exercise",
+        "content": "Improve your problem-solving abilities with this exercise",
+        "created_at": "2023-08-12T00:01:09.202Z",
+        "updated_at": "2023-08-12T13:12:48.333Z",
+        "lesson_id": "81e7e6b2-2cdb-401c-b8f8-10ab4622af5e"
+      },
+      {
+        "id": "1a1b7648-b517-4279-9d2b-b0379a00b14c",
+        "name": "Algorithm Practice",
+        "content": "Practice algorithms to enhance your programming knowledge",
+        "created_at": "2023-08-12T05:11:24.192Z",
+        "updated_at": "2023-08-11T23:50:56.346Z",
+        "lesson_id": "bb373836-3f6c-4739-8e65-dbbc9ae32ca6"
+      },
+      {
+        "id": "5cb342be-4e8e-4f60-96d1-3439713bac48",
+        "name": "Debugging Task",
+        "content": "Debug a given code snippet and fix the errors",
+        "created_at": "2023-08-12T03:22:31.367Z",
+        "updated_at": "2023-08-12T06:12:10.839Z",
+        "lesson_id": "ebc09d65-46d6-47ce-b0a3-e469bfb41502"
+      },
+      {
+        "id": "5ebec2ee-9e37-4343-b660-e9236f1e1500",
+        "name": "Code Refactoring Exercise",
+        "content": "Refactor existing code to improve its efficiency",
+        "created_at": "2023-08-11T20:35:22.738Z",
+        "updated_at": "2023-08-12T13:29:24.434Z",
+        "lesson_id": "ebc09d65-46d6-47ce-b0a3-e469bfb41502"
+      }
+    ],
+    "progress": [
+      {
+        "id": "2dc11815-ea3f-4324-89d2-61e681f4668d",
+        "progress_data": "25%",
+        "created_at": "2023-08-12T10:32:47.333Z",
+        "updated_at": "2023-08-11T20:40:05.140Z",
+        "exercise_id": "4c5e0cb3-8e4b-42e6-a6df-f6773772d226",
+        "lesson_id": "3642223e-884e-469f-b913-15b8111e201d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "85c8b4d6-ba1b-49fa-a6b2-96d1d9c3b7ab",
+        "progress_data": "50%",
+        "created_at": "2023-08-12T04:38:42.196Z",
+        "updated_at": "2023-08-12T08:46:17.874Z",
+        "exercise_id": "5ebec2ee-9e37-4343-b660-e9236f1e1500",
+        "lesson_id": "3642223e-884e-469f-b913-15b8111e201d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "029c4609-9d8b-4925-91fa-8bfd78e7366d",
+        "progress_data": "75%",
+        "created_at": "2023-08-12T10:21:54.822Z",
+        "updated_at": "2023-08-11T18:51:13.001Z",
+        "exercise_id": "1a1b7648-b517-4279-9d2b-b0379a00b14c",
+        "lesson_id": "bb373836-3f6c-4739-8e65-dbbc9ae32ca6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d697a640-3314-4f4d-a87a-9bcc2e91e0a5",
+        "progress_data": "90%",
+        "created_at": "2023-08-11T17:58:30.573Z",
+        "updated_at": "2023-08-12T07:26:15.854Z",
+        "exercise_id": "4c5e0cb3-8e4b-42e6-a6df-f6773772d226",
+        "lesson_id": "81e7e6b2-2cdb-401c-b8f8-10ab4622af5e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "084efcaf-3911-4a68-8b89-373fdf71eea4",
+        "progress_data": "100%",
+        "created_at": "2023-08-12T06:53:12.577Z",
+        "updated_at": "2023-08-12T08:22:37.424Z",
+        "exercise_id": "5cb342be-4e8e-4f60-96d1-3439713bac48",
+        "lesson_id": "ebc09d65-46d6-47ce-b0a3-e469bfb41502",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "28e0a385-8357-485d-8a69-ed696193067c",
+        "email": "Mac.Leuschke81@hotmail.com",
+        "firstName": "Mazie",
+        "lastName": "Kemmer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/658.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "04caef03-df83-4270-9a35-f8e86aca6b43",
+        "email": "Everett_Jacobson81@hotmail.com",
+        "firstName": "Royce",
+        "lastName": "Cremin-Sanford",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/875.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1ad913b5-51c5-492c-9779-cbc3c3dd9038",
+        "email": "Mario.Koss84@hotmail.com",
+        "firstName": "Forrest",
+        "lastName": "Spinka",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70797212",
+        "tenantId": null
+      },
+      {
+        "reference": "4b77a758-1e3e-43f3-a1ca-1b748bd863a5",
+        "email": "Amber48@gmail.com",
+        "firstName": "Lorine",
+        "lastName": "Kuhlman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/369.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b9ce5000-f14c-4bd6-ac69-540ff9c0e0cd",
+        "email": "Art_Leannon65@gmail.com",
+        "firstName": "Dovie",
+        "lastName": "Armstrong",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/606.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "lesson": [
+      {
+        "id": "51533264-72b0-46a2-af24-5721fd2ec8ac",
+        "name": "Introduction to Programming",
+        "content": "Learn the basics of programming languages",
+        "created_at": "2023-08-11T19:52:40.804Z",
+        "updated_at": "2023-08-12T04:46:17.817Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "2fbcbe1c-676e-47f9-bb74-8678007af498",
+        "name": "Web Development Basics",
+        "content": "Build interactive websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-12T04:00:19.685Z",
+        "updated_at": "2023-08-11T16:03:20.778Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "aaf8e931-34ed-4e0f-824b-38916f7b4dc7",
+        "name": "Data Science Fundamentals",
+        "content": "Explore data analysis techniques and tools",
+        "created_at": "2023-08-12T12:14:34.282Z",
+        "updated_at": "2023-08-12T14:11:13.424Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "10ae5bf4-e5ea-4205-8b84-06a403d8c9c7",
+        "name": "Mobile App Development",
+        "content": "Create mobile apps for iOS and Android platforms",
+        "created_at": "2023-08-12T07:39:13.280Z",
+        "updated_at": "2023-08-12T00:21:18.566Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "b21659ee-f64c-467f-bcf0-829f0b21d0ed",
+        "name": "Artificial Intelligence",
+        "content": "Discover the world of AI and machine learning",
+        "created_at": "2023-08-12T09:24:17.423Z",
+        "updated_at": "2023-08-12T14:54:07.367Z",
+        "website_id": "main_entity_pk"
+      }
+    ],
+    "exercise": [
+      {
+        "id": "9348e1ae-9254-47ef-8a4d-d886edb350fa",
+        "name": "Coding Challenge 1",
+        "content": "Solve a coding problem using your programming skills",
+        "created_at": "2023-08-11T17:48:59.326Z",
+        "updated_at": "2023-08-12T07:01:31.224Z",
+        "lesson_id": "51533264-72b0-46a2-af24-5721fd2ec8ac"
+      },
+      {
+        "id": "e52cf93c-d03b-4155-ad30-a2d6a0526c67",
+        "name": "Problem Solving Exercise",
+        "content": "Improve your problem-solving abilities with this exercise",
+        "created_at": "2023-08-12T09:20:43.374Z",
+        "updated_at": "2023-08-12T14:18:57.773Z",
+        "lesson_id": "b21659ee-f64c-467f-bcf0-829f0b21d0ed"
+      },
+      {
+        "id": "08955ae7-045f-4d4e-aac0-2e6126e4c42e",
+        "name": "Debugging Practice",
+        "content": "Find and fix bugs in a given code snippet",
+        "created_at": "2023-08-11T21:43:01.883Z",
+        "updated_at": "2023-08-12T04:50:51.176Z",
+        "lesson_id": "51533264-72b0-46a2-af24-5721fd2ec8ac"
+      },
+      {
+        "id": "44ea4b3a-42a1-4d8e-a06d-de4619f6ff6b",
+        "name": "Algorithmic Puzzle",
+        "content": "Solve a puzzle using algorithms and logical thinking",
+        "created_at": "2023-08-11T17:13:46.765Z",
+        "updated_at": "2023-08-12T04:29:56.216Z",
+        "lesson_id": "aaf8e931-34ed-4e0f-824b-38916f7b4dc7"
+      },
+      {
+        "id": "885f5ca8-be9a-4569-bdad-ee3e3daaccdb",
+        "name": "Code Refactoring Task",
+        "content": "Optimize and improve existing code",
+        "created_at": "2023-08-11T16:30:25.844Z",
+        "updated_at": "2023-08-11T19:39:41.550Z",
+        "lesson_id": "51533264-72b0-46a2-af24-5721fd2ec8ac"
+      }
+    ],
+    "progress": [
+      {
+        "id": "94354269-4dc8-4188-ae34-d1413cdf1509",
+        "progress_data": "25%",
+        "created_at": "2023-08-12T02:07:35.466Z",
+        "updated_at": "2023-08-12T08:49:50.563Z",
+        "exercise_id": "9348e1ae-9254-47ef-8a4d-d886edb350fa",
+        "lesson_id": "2fbcbe1c-676e-47f9-bb74-8678007af498",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15e271b4-153a-4d70-92e5-cf35eb7943d6",
+        "progress_data": "50%",
+        "created_at": "2023-08-12T03:14:17.308Z",
+        "updated_at": "2023-08-12T11:21:32.296Z",
+        "exercise_id": "44ea4b3a-42a1-4d8e-a06d-de4619f6ff6b",
+        "lesson_id": "b21659ee-f64c-467f-bcf0-829f0b21d0ed",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "752d2b9b-3f58-4828-bc6b-9b754c757402",
+        "progress_data": "75%",
+        "created_at": "2023-08-11T16:04:22.983Z",
+        "updated_at": "2023-08-11T21:17:35.651Z",
+        "exercise_id": "08955ae7-045f-4d4e-aac0-2e6126e4c42e",
+        "lesson_id": "2fbcbe1c-676e-47f9-bb74-8678007af498",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d59c65af-511d-4ee9-a66f-3ed9de15c020",
+        "progress_data": "90%",
+        "created_at": "2023-08-12T04:59:41.389Z",
+        "updated_at": "2023-08-12T03:20:32.214Z",
+        "exercise_id": "9348e1ae-9254-47ef-8a4d-d886edb350fa",
+        "lesson_id": "b21659ee-f64c-467f-bcf0-829f0b21d0ed",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0e1359b9-ae69-44be-964f-91651867652e",
+        "progress_data": "100%",
+        "created_at": "2023-08-12T07:27:41.096Z",
+        "updated_at": "2023-08-12T13:20:17.270Z",
+        "exercise_id": "44ea4b3a-42a1-4d8e-a06d-de4619f6ff6b",
+        "lesson_id": "b21659ee-f64c-467f-bcf0-829f0b21d0ed",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "16f18d5b-e8af-4dc8-9bc9-0ef6871403e7",
+        "email": "Dave_Kertzmann47@gmail.com",
+        "firstName": "Lawson",
+        "lastName": "Beier",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46529362",
+        "tenantId": null
+      },
+      {
+        "reference": "60bf1acd-061b-4062-8870-575d1ede9179",
+        "email": "Karen.McClure92@gmail.com",
+        "firstName": "Layne",
+        "lastName": "Runolfsson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61186468",
+        "tenantId": null
+      },
+      {
+        "reference": "10acc7d6-afa3-4e8c-aeb7-8a690e3b14fe",
+        "email": "Maegan_Walter38@gmail.com",
+        "firstName": "Samantha",
+        "lastName": "Steuber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19380220",
+        "tenantId": null
+      },
+      {
+        "reference": "87880938-8e02-4939-9c17-e56611d91949",
+        "email": "Kaya_Murphy85@yahoo.com",
+        "firstName": "Keanu",
+        "lastName": "O'Hara-Nitzsche",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8305235",
+        "tenantId": null
+      },
+      {
+        "reference": "bf539b0b-8f4f-42e7-80d6-dbf28c6bef76",
+        "email": "Louie44@gmail.com",
+        "firstName": "Manley",
+        "lastName": "Friesen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/290.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "lesson": [
+      {
+        "id": "70cd7014-73ad-43ea-b85f-a6cfccc09ad5",
+        "name": "Introduction to Python",
+        "content": "Learn the basics of Python programming language",
+        "created_at": "2023-08-12T04:19:07.272Z",
+        "updated_at": "2023-08-11T22:42:25.079Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "9d92b197-da4e-4bf6-adf7-e5d2f6371f5b",
+        "name": "Web Development Basics",
+        "content": "Explore the fundamentals of web development",
+        "created_at": "2023-08-12T14:43:36.131Z",
+        "updated_at": "2023-08-12T09:13:52.451Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "450f2728-88a0-438c-82cc-583184da3eee",
+        "name": "Data Analysis Techniques",
+        "content": "Discover various techniques for data analysis",
+        "created_at": "2023-08-12T06:42:10.182Z",
+        "updated_at": "2023-08-12T08:43:32.708Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "c4a06882-e3e1-42f6-873c-b03c91829036",
+        "name": "Artificial Intelligence Fundamentals",
+        "content": "Get started with artificial intelligence concepts",
+        "created_at": "2023-08-11T20:06:31.105Z",
+        "updated_at": "2023-08-12T05:27:15.917Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "c602970b-2f74-41c6-9440-4ecf5dce3ad9",
+        "name": "Mobile App Development",
+        "content": "Build your own mobile apps",
+        "created_at": "2023-08-12T14:09:27.822Z",
+        "updated_at": "2023-08-11T22:45:23.142Z",
+        "website_id": "main_entity_pk"
+      }
+    ],
+    "exercise": [
+      {
+        "id": "781614f7-116b-44f0-bcc4-6d3920bc5807",
+        "name": "Coding Challenge 1",
+        "content": "Solve a coding challenge to test your skills",
+        "created_at": "2023-08-11T16:49:28.970Z",
+        "updated_at": "2023-08-12T02:35:09.233Z",
+        "lesson_id": "9d92b197-da4e-4bf6-adf7-e5d2f6371f5b"
+      },
+      {
+        "id": "5dbf8345-e99e-464a-8761-93722a286e53",
+        "name": "Problem Solving Exercise",
+        "content": "Improve your problem-solving abilities with this exercise",
+        "created_at": "2023-08-11T23:24:41.504Z",
+        "updated_at": "2023-08-12T08:25:48.234Z",
+        "lesson_id": "c4a06882-e3e1-42f6-873c-b03c91829036"
+      },
+      {
+        "id": "b4b230f9-46a6-4c16-86f4-859633f5b3b7",
+        "name": "Algorithm Practice",
+        "content": "Practice algorithms to enhance your programming knowledge",
+        "created_at": "2023-08-12T08:01:15.727Z",
+        "updated_at": "2023-08-12T06:16:33.724Z",
+        "lesson_id": "c602970b-2f74-41c6-9440-4ecf5dce3ad9"
+      },
+      {
+        "id": "f92c84bc-2744-4368-a032-eeda31c55aa5",
+        "name": "Debugging Task",
+        "content": "Debug a given code snippet and fix the errors",
+        "created_at": "2023-08-11T18:27:41.214Z",
+        "updated_at": "2023-08-11T23:25:35.808Z",
+        "lesson_id": "c602970b-2f74-41c6-9440-4ecf5dce3ad9"
+      },
+      {
+        "id": "c3218489-05dd-4d2f-9b53-745ddbbef2d0",
+        "name": "Code Refactoring Exercise",
+        "content": "Refactor existing code to improve its efficiency",
+        "created_at": "2023-08-12T07:25:54.374Z",
+        "updated_at": "2023-08-11T21:17:55.912Z",
+        "lesson_id": "9d92b197-da4e-4bf6-adf7-e5d2f6371f5b"
+      }
+    ],
+    "progress": [
+      {
+        "id": "c31eff69-61bf-4ac8-a917-5f571d83d86c",
+        "progress_data": "25%",
+        "created_at": "2023-08-12T02:23:12.580Z",
+        "updated_at": "2023-08-12T05:37:51.933Z",
+        "exercise_id": "5dbf8345-e99e-464a-8761-93722a286e53",
+        "lesson_id": "70cd7014-73ad-43ea-b85f-a6cfccc09ad5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad2a85b6-3867-460a-936f-6602471e3b0b",
+        "progress_data": "50%",
+        "created_at": "2023-08-11T20:07:11.512Z",
+        "updated_at": "2023-08-12T05:06:58.149Z",
+        "exercise_id": "b4b230f9-46a6-4c16-86f4-859633f5b3b7",
+        "lesson_id": "c602970b-2f74-41c6-9440-4ecf5dce3ad9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "77641a14-54e1-4345-a3f3-b1a489c8d1d0",
+        "progress_data": "75%",
+        "created_at": "2023-08-11T15:48:56.102Z",
+        "updated_at": "2023-08-11T19:48:22.125Z",
+        "exercise_id": "c3218489-05dd-4d2f-9b53-745ddbbef2d0",
+        "lesson_id": "70cd7014-73ad-43ea-b85f-a6cfccc09ad5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "54447f44-c2b5-4a7a-8987-2f188ee6f25e",
+        "progress_data": "90%",
+        "created_at": "2023-08-11T19:02:56.605Z",
+        "updated_at": "2023-08-12T06:11:17.015Z",
+        "exercise_id": "b4b230f9-46a6-4c16-86f4-859633f5b3b7",
+        "lesson_id": "c602970b-2f74-41c6-9440-4ecf5dce3ad9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "73e3751c-a382-4085-8397-60e54e8a00fc",
+        "progress_data": "100%",
+        "created_at": "2023-08-12T02:58:14.984Z",
+        "updated_at": "2023-08-12T09:34:28.036Z",
+        "exercise_id": "5dbf8345-e99e-464a-8761-93722a286e53",
+        "lesson_id": "70cd7014-73ad-43ea-b85f-a6cfccc09ad5",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "79b2fcfc-2d7e-476e-8e44-2c69046aaf6c",
+        "email": "Melyna_Reynolds15@yahoo.com",
+        "firstName": "Zola",
+        "lastName": "Borer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2727883",
+        "tenantId": null
+      },
+      {
+        "reference": "167e07e9-1b5d-4a6e-958f-c50f1b9ff873",
+        "email": "Aurelio50@yahoo.com",
+        "firstName": "Serenity",
+        "lastName": "Farrell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/416.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "468f9c55-c8d5-40c5-aac9-cfc70029df6f",
+        "email": "Consuelo6@gmail.com",
+        "firstName": "Mozelle",
+        "lastName": "Hand",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55657805",
+        "tenantId": null
+      },
+      {
+        "reference": "ac8aadd8-ed0f-4672-a278-40940d46a432",
+        "email": "Brionna66@yahoo.com",
+        "firstName": "Odie",
+        "lastName": "Conroy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54600996",
+        "tenantId": null
+      },
+      {
+        "reference": "71a6a34c-af12-4207-8ff3-a0f628abcce4",
+        "email": "Everett.Stiedemann@gmail.com",
+        "firstName": "Winston",
+        "lastName": "Breitenberg",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1035.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "lesson": [
+      {
+        "id": "60bcd2ab-066f-46eb-804c-d78c4283012f",
+        "name": "Introduction to Programming",
+        "content": "Learn the basics of programming languages",
+        "created_at": "2023-08-12T10:45:21.546Z",
+        "updated_at": "2023-08-11T16:34:26.339Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "2718c5d6-e76b-42a6-b27f-8cbc04b9602a",
+        "name": "Web Development Basics",
+        "content": "Build interactive websites using HTML, CSS, and JavaScript",
+        "created_at": "2023-08-12T01:49:59.599Z",
+        "updated_at": "2023-08-11T22:23:14.404Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "2140652b-a346-4a27-ae5c-c12ac7d12bf0",
+        "name": "Data Science Fundamentals",
+        "content": "Explore data analysis techniques and tools",
+        "created_at": "2023-08-11T18:11:41.894Z",
+        "updated_at": "2023-08-12T13:03:09.607Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "95031e79-4330-4aa1-9adc-8da467d23267",
+        "name": "Mobile App Development",
+        "content": "Create mobile apps for iOS and Android platforms",
+        "created_at": "2023-08-12T15:24:12.176Z",
+        "updated_at": "2023-08-11T16:55:01.849Z",
+        "website_id": "main_entity_pk"
+      },
+      {
+        "id": "b4289a9b-cfcb-4f59-bf18-8753d36623c8",
+        "name": "Artificial Intelligence",
+        "content": "Discover the world of AI and machine learning",
+        "created_at": "2023-08-12T11:22:30.841Z",
+        "updated_at": "2023-08-12T06:15:23.069Z",
+        "website_id": "main_entity_pk"
+      }
+    ],
+    "exercise": [
+      {
+        "id": "461155fe-68ff-4ba6-b050-0b7f059bb515",
+        "name": "Coding Challenge 1",
+        "content": "Solve a coding problem using your programming skills",
+        "created_at": "2023-08-11T20:20:50.286Z",
+        "updated_at": "2023-08-12T14:28:39.587Z",
+        "lesson_id": "b4289a9b-cfcb-4f59-bf18-8753d36623c8"
+      },
+      {
+        "id": "7e96d721-faf0-4de5-84eb-7f6e35b9b96f",
+        "name": "Problem Solving Exercise",
+        "content": "Improve your problem-solving abilities with this exercise",
+        "created_at": "2023-08-11T19:00:02.976Z",
+        "updated_at": "2023-08-12T02:24:34.051Z",
+        "lesson_id": "b4289a9b-cfcb-4f59-bf18-8753d36623c8"
+      },
+      {
+        "id": "30aa9a30-a120-41ea-b52a-2909d3240794",
+        "name": "Debugging Practice",
+        "content": "Find and fix bugs in a given code snippet",
+        "created_at": "2023-08-11T21:50:57.956Z",
+        "updated_at": "2023-08-11T17:51:14.130Z",
+        "lesson_id": "60bcd2ab-066f-46eb-804c-d78c4283012f"
+      },
+      {
+        "id": "a0669887-672d-405d-867a-a8249f9f5765",
+        "name": "Algorithmic Puzzle",
+        "content": "Solve a puzzle using algorithms and logical thinking",
+        "created_at": "2023-08-11T16:49:18.676Z",
+        "updated_at": "2023-08-11T16:18:45.769Z",
+        "lesson_id": "2718c5d6-e76b-42a6-b27f-8cbc04b9602a"
+      },
+      {
+        "id": "fbba9ec0-e1b0-42b5-bcd9-d6f8bf2ad03b",
+        "name": "Code Refactoring Task",
+        "content": "Optimize and improve existing code",
+        "created_at": "2023-08-12T03:36:34.301Z",
+        "updated_at": "2023-08-12T11:29:22.000Z",
+        "lesson_id": "60bcd2ab-066f-46eb-804c-d78c4283012f"
+      }
+    ],
+    "progress": [
+      {
+        "id": "6105a162-112c-47ce-ade1-570fab0f52bc",
+        "progress_data": "25%",
+        "created_at": "2023-08-11T16:56:23.283Z",
+        "updated_at": "2023-08-12T00:34:33.601Z",
+        "exercise_id": "461155fe-68ff-4ba6-b050-0b7f059bb515",
+        "lesson_id": "2140652b-a346-4a27-ae5c-c12ac7d12bf0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7ae4e796-5bc3-4625-a69f-5613e38329ff",
+        "progress_data": "50%",
+        "created_at": "2023-08-12T08:57:33.612Z",
+        "updated_at": "2023-08-12T10:47:39.788Z",
+        "exercise_id": "a0669887-672d-405d-867a-a8249f9f5765",
+        "lesson_id": "2140652b-a346-4a27-ae5c-c12ac7d12bf0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "77748cb6-b984-410f-b353-519db0eeb314",
+        "progress_data": "75%",
+        "created_at": "2023-08-11T18:50:58.313Z",
+        "updated_at": "2023-08-11T17:16:24.612Z",
+        "exercise_id": "461155fe-68ff-4ba6-b050-0b7f059bb515",
+        "lesson_id": "2140652b-a346-4a27-ae5c-c12ac7d12bf0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f542566f-d2af-4925-a38c-91bddd6417ef",
+        "progress_data": "90%",
+        "created_at": "2023-08-12T09:53:23.237Z",
+        "updated_at": "2023-08-12T02:00:19.469Z",
+        "exercise_id": "30aa9a30-a120-41ea-b52a-2909d3240794",
+        "lesson_id": "2718c5d6-e76b-42a6-b27f-8cbc04b9602a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2a0f56e-bf3e-4c5d-8454-e1db1c825ae3",
+        "progress_data": "100%",
+        "created_at": "2023-08-12T06:54:29.454Z",
+        "updated_at": "2023-08-12T13:28:19.985Z",
+        "exercise_id": "7e96d721-faf0-4de5-84eb-7f6e35b9b96f",
+        "lesson_id": "60bcd2ab-066f-46eb-804c-d78c4283012f",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c34e104f-4f50-44f0-b303-2b85f6e9a2e4",
+        "email": "Zane19@hotmail.com",
+        "firstName": "Nels",
+        "lastName": "Upton",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33883524",
+        "tenantId": null
+      },
+      {
+        "reference": "b9388439-cdc6-47be-b461-789619f97827",
+        "email": "Danielle48@gmail.com",
+        "firstName": "Susanna",
+        "lastName": "Schmidt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18906170",
+        "tenantId": null
+      },
+      {
+        "reference": "671da298-8d52-43ce-88f7-2e304b3cdf68",
+        "email": "Ebony7@yahoo.com",
+        "firstName": "Trent",
+        "lastName": "Terry",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89406333",
+        "tenantId": null
+      },
+      {
+        "reference": "1f642a9d-5abe-4a3a-841f-db4fcc0be0e8",
+        "email": "Lauren_Lowe@gmail.com",
+        "firstName": "Susan",
+        "lastName": "Anderson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/223.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f71799ce-3a77-45a8-9a9e-7e8f2634c7aa",
+        "email": "Graham_Greenholt@gmail.com",
+        "firstName": "Heber",
+        "lastName": "Maggio",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16909856",
+        "tenantId": null
+      }
+    ]
+  }
+]
